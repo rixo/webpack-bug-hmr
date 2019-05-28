@@ -1,5 +1,7 @@
 # Reproduction case for Webpack HMR bug
 
+Issue: https://github.com/webpack/webpack/issues/9198
+
 ```
 npm install
 npm start # starts dev server
